@@ -1,0 +1,11 @@
+
+  .carousel {
+      margin-bottom: 4rem;
+  }
+
+  .carousel-item {
+    height: 100%;
+    &.active {
+      transform: rect(100%);
+    }
+  }

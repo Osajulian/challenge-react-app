@@ -1,0 +1,14 @@
+.feature {
+    .feature-heading {
+        @media (min-width: 62em) {
+            margin-top: 5rem;
+        }
+        span {
+            color: #ccc;
+        }
+    }
+}
+
+.feature-divider {
+    margin: 5rem 0;
+}
